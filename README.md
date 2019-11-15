@@ -9,3 +9,6 @@ This repository contains four files:
 3) **README.md** - This file
 4) **countries of the world.csv** - A `.csv` file containing country demographic data downloaded from kaggle, which originally came from 'The World Factbook' (CIA)
 
+The notebook **Naive Bayes Classifier Continents.ipynb** outlines the process of constructing a Naive Ba
+
+yes Classifier with Sckikit-Learn.
