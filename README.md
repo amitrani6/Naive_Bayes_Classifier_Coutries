@@ -7,4 +7,5 @@ This repository contains four files:
 1) **.gitignore** - Contains the files excluded from this repository
 2) **Naive Bayes Classifier Continents.ipynb** - A Jupyter Notebook containing the Naive Bayes Classifier that predicts the continent based on a country's demographic data
 3) **README.md** - This file
-4) **countries of the world.csv** - A `.csv` file containing country demographoc data doenloaded from kaggle, which originally came from the CIA Factbook
+4) **countries of the world.csv** - A `.csv` file containing country demographic data downloaded from kaggle, which originally came from 'The World Factbook' (CIA)
+
